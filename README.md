@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Kumar</h1>
-<h3 align="center">My name is Kshitij and I'm a MCA and artificial intelligence student</h3>
+<h3 align="center">My name is Kshitij and I'm a MCA </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
